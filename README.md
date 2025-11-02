@@ -27,7 +27,7 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 - Use winget to install, upgrade, and repair system packages  
 - Automatically installs winget if missing  
 - Flexible package handling: View, search, and upgrade individual apps/packages by entering their ID directly  
-- **Improved in v5.0.0:** Windows Update Repair Tool now supports **full nuke & rebuild** with more repair options  
+- **Improved in v1.0.0:** Windows Update Repair Tool now supports **full nuke & rebuild** with more repair options  
 
 **Network diagnostics & repair:**  
 - Includes ipconfig, routing table viewer, DNS config, adapter reset, and more  
@@ -52,12 +52,12 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 
 **Firewall Manager:**  T runtimes  
 
-**Shortcut Fixer (New in v5.0.0):**  
+**Shortcut Fixer (New in v1.0.0):**  
 - Automatic shortcut repair  
 - Menu reorganized (options 30 and 0 moved to the end for better structure)  
 
 **Menu-driven and user-friendly:**  
-- More return-to-menu options added (v5.0.0)  
+- More return-to-menu options added (v1.0.0)  
 - All functions accessible from a clear main menu—no PowerShell experience needed  
 - Support/help, Discord/GitHub contact, openable with a single key press  
  
@@ -66,7 +66,7 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 - Built-in menu-driven PowerShell Firewall Manager  
 - Manage firewall rules, enable/disable Windows Firewall directly from the tool  
 
-**.NET RollForward Settings (New in v5.0.0):**  
+**.NET RollForward Settings (New in v1.0.0):**  
 - Lets the system use a specific .NET version (SDK/runtime)  
 - Reduces the need to install multiple .NEcript)](https://massgrave.dev) project, Windows and Office activation support is now integrated into this tool.  
 - Full credit goes to the Massgrave team for maintaining and developing MAS. This project does not modify or redistribute MAS — it only provides a convenient way to access it.  
@@ -114,7 +114,7 @@ Start-Process powershell -Verb RunAs -ArgumentList "-NoProfile -ExecutionPolicy 
 ```  
 
 **Q: Why does it crash when selecting registry cleanup?**  
-A: This was fixed in v5.0.0. The tool now safely lists and deletes registry keys with auto-backup.  
+A: This was fixed in v1.0.0. The tool now safely lists and deletes registry keys with auto-backup.  
 
 **Q: Why was Registry Defrag removed?**  
 A: It depended on NTREGOPT, which is no longer accessible. The script is now fully offline and native to Windows.  
@@ -123,7 +123,7 @@ A: It depended on NTREGOPT, which is no longer accessible. The script is now ful
 
 ## 📜 Credits  
 
-This release (**5.0.0**) was fully contributed by **[@Chaython]([https://github.com/E-Khadrawi/Windows-Tools/releases])**.  
+This release (**1.0.0**) was fully contributed by **[@Chaython](https://github.com/E-Khadrawi/Windows-Tools/releases)**.  
 All new features, fixes, and improvements are thanks to his work.  
 
 ---
