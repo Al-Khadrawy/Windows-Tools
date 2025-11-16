@@ -1,6 +1,6 @@
 # 🖥️ Windows Maintenance Tool
 
-![Version](https://img.shields.io/badge/version-v1.0.0-green)  
+![Version](https://img.shields.io/badge/version-v2.0.0-green)  
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)  
 ![License: MIT](https://img.shields.io/badge/license-AL%20Khadrawi-blue)  
 
@@ -10,7 +10,7 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 ---
 
 ## 📸 Screenshot  
-<img width="958" height="878" alt="2025-10-19 01_47_11-NVIDIA GeForce Overlay" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFL7VBDtmHXaCjrC06XvDr3azrG05m6_uD2Qy-8EYzMdEjk58ZBERwhMohbs_kdVCChdzsPNch0DnxJko296ZfHPPNSVzLUy46bmXdnib8J6Yu8yQuvCsUGB_MG0rzTff4X-HzodN-nYrjaJSqLHD5pY4om8XZfxWczc31VZV22CxBItxKNGTYLX7znyrk/s1063/Start%20Windows%20Maintenance%20Tool.png" />
+<img width="958" height="878" alt="2025-10-19 01_47_11-NVIDIA GeForce Overlay" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj42yidSAfXCBX41PIud65M9qv2sHH5ZmMMz590uOxJOU_HO3zRdO1JCiKs4LMdUqfu4Y9XBliovi0suvZxlvwkEKojY6Yry3aAar_M31G_O2b0u6M5Sx37_Ey197Xo6x8bq0Lwu9-SRC9W5O-R3LXO_OEzsJQGX8QJgIbV0gDLjJKxued0fB52a_6yb2T3/s963/CMD.png" />
 
 
 ---
@@ -27,7 +27,7 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 - Use winget to install, upgrade, and repair system packages  
 - Automatically installs winget if missing  
 - Flexible package handling: View, search, and upgrade individual apps/packages by entering their ID directly  
-- **Improved in v1.0.0:** Windows Update Repair Tool now supports **full nuke & rebuild** with more repair options  
+- **Improved in v2.0.0:** Windows Update Repair Tool now supports **full nuke & rebuild** with more repair options  
 
 **Network diagnostics & repair:**  
 - Includes ipconfig, routing table viewer, DNS config, adapter reset, and more  
@@ -52,12 +52,12 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 
 **Firewall Manager:**  T runtimes  
 
-**Shortcut Fixer (New in v1.0.0):**  
+**Shortcut Fixer (New in v2.0.0):**  
 - Automatic shortcut repair  
 - Menu reorganized (options 30 and 0 moved to the end for better structure)  
 
 **Menu-driven and user-friendly:**  
-- More return-to-menu options added (v1.0.0)  
+- More return-to-menu options added (v2.0.0)  
 - All functions accessible from a clear main menu—no PowerShell experience needed  
 - Support/help, Discord/GitHub contact, openable with a single key press  
  
@@ -66,7 +66,7 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 - Built-in menu-driven PowerShell Firewall Manager  
 - Manage firewall rules, enable/disable Windows Firewall directly from the tool  
 
-**.NET RollForward Settings (New in v1.0.0):**  
+**.NET RollForward Settings (New in v2.0.0):**  
 - Lets the system use a specific .NET version (SDK/runtime)  
 - Reduces the need to install multiple .NEcript)](https://massgrave.dev) project, Windows and Office activation support is now integrated into this tool.  
 - Full credit goes to the Massgrave team for maintaining and developing MAS. This project does not modify or redistribute MAS — it only provides a convenient way to access it.  
@@ -114,7 +114,7 @@ Start-Process powershell -Verb RunAs -ArgumentList "-NoProfile -ExecutionPolicy 
 ```  
 
 **Q: Why does it crash when selecting registry cleanup?**  
-A: This was fixed in v1.0.0. The tool now safely lists and deletes registry keys with auto-backup.  
+A: This was fixed in v2.0.0. The tool now safely lists and deletes registry keys with auto-backup.  
 
 **Q: Why was Registry Defrag removed?**  
 A: It depended on NTREGOPT, which is no longer accessible. The script is now fully offline and native to Windows.  
@@ -123,7 +123,7 @@ A: It depended on NTREGOPT, which is no longer accessible. The script is now ful
 
 ## 📜 Credits  
 
-This release (**1.0.0**) was fully contributed by **[@Chaython](https://github.com/E-Khadrawi/Windows-Tools/releases)**.  
+This release (**2.0.0**) was fully contributed by **[@Chaython](https://github.com/E-Khadrawi/Windows-Tools/releases)**.  
 All new features, fixes, and improvements are thanks to his work.  
 
 ---
