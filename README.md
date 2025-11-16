@@ -71,7 +71,7 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 - Reduces the need to install multiple .NEcript)](https://massgrave.dev) project, Windows and Office activation support is now integrated into this tool.  
 - Full credit goes to the Massgrave team for maintaining and developing MAS. This project does not modify or redistribute MAS — it only provides a convenient way to access it.  
 - A clear warning and confirmation step has been added to ensure that users review the documentation and accept responsibility before running the script.
-- Reduces the need to install multiple .NEcript)](https://github.com/lstprjct/IDM-Activation-Script) project, Internet Download Manager activation support is now integrated into this tool
+- (https://github.com/lstprjct/IDM-Activation-Script) project, Internet Download Manager activation support is now integrated into this tool
 
 **Portable & safe:**  
 - Runs from USB, no install or admin deployment required  
