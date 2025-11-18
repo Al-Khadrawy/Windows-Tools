@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-v2.0.0-green)  
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)  
-![License: MIT](https://img.shields.io/badge/license-AL%20Khadrawi-blue)  
+![License: MIT](https://img.shields.io/badge/license-AL%20Khadrawy-blue)  
 
 A powerful, all-in-one Windows maintenance toolkit built entirely in Batch & PowerShell.  
 Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compatible.  
