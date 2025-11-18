@@ -133,7 +133,7 @@ All new features, fixes, and improvements are thanks to his work.
 
 MIT License
 
-Copyright (c) 2025 AL Khadrawi
+Copyright (c) 2025 AL Khadrawy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
