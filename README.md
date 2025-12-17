@@ -124,7 +124,7 @@ A: It depended on NTREGOPT, which is no longer accessible. The script is now ful
 
 ## 📜 Credits  
 
-This release (**2.0.0**) was fully contributed by **[@Chaython](https://github.com/E-Khadrawi/Windows-Tools/releases)**.  
+This release (**2.0.0**) was fully contributed by **[AL KHADRAWY](https://github.com/E-Khadrawi/Windows-Tools/releases)**.  
 All new features, fixes, and improvements are thanks to his work.  
 
 ---
