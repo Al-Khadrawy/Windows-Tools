@@ -10,7 +10,7 @@ Designed for power users, sysadmins, and curious tinkerers – now smarter, safe
 ---
 
 ## 📸 Screenshot  
-<img width="958" height="878" alt="2025-10-19 01_47_11-NVIDIA GeForce Overlay" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAt83gHenhbmH__hjZWmixrrIoU1yVYxN7lZOOkd9NtrGQT9MithJ-K6gWxIflkxezsoIwENkaer8P4x-OjXfgpAgS0HHvUOFXBZSBSux4Oy4A-VhigbEIfwRX45Kqt5iousjt_Fvfcx7H1tVyOXNh32XV10CDd8_0bmnBbLy_zZYd4nD0MjFRbgB9jl9Z/s957/CMD.png" />
+<img width="958" height="878" alt="2025-10-19 01_47_11-NVIDIA GeForce Overlay" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7hqcjoihhg8ck7eWRnarwlsB_chSeO_p930vZaCKrilPEN2rEhJI5BnSQRr8sJFAm39zsFrrTnYcvWWpnktjygM-jMUwyLjhUS_VtDeyr_slYBuY3yhe8-5LSusKZv5yDqldY7gaWSKEgssymB9tFVLqTcQzqK_32YImOI20QBwknrGGCSNikFXPkQwq/s967/2.png" />
 
 
 ---
