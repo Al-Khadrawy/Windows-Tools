@@ -1,8 +1,9 @@
 # 🖥️ Windows Maintenance Tool
 
-![Version](https://img.shields.io/badge/version-v2.0.0-green)  
-![Platform](https://img.shields.io/badge/platform-Windows-blue)  
-![License: MIT](https://img.shields.io/badge/license-AL%20Khadrawy-blue)  
+![Windows](https://img.shields.io/badge/OS-Windows%2010%20%7C%2011-blue)
+![CMD](https://img.shields.io/badge/Script-CMD%20%7C%20Batch-green)
+![License](https://img.shields.io/badge/License-AL%20Khadrawy-yellow)
+![Version](https://img.shields.io/badge/version-v2.0.0-red)  
 
 A powerful, all-in-one Windows maintenance toolkit built entirely in Batch & PowerShell.  
 Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compatible.  
